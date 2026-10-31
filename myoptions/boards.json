@@ -24,10 +24,6 @@
     "file": "ESP32-S3-ES3C28P.json"
   },
   {
-    "name": "ESP32-S3 ES3C28S (ESP32-S3-N16R8)(4.0)",
-    "file": "ESP32-S3-ES3C28S.json"
-  },
-  {
     "name": "ESP32-S3 N16R8 (16MB Flash 8MB PSRAM) (42 Pin)",
     "file": "ESP32-S3_N16R8_42Pin.json"
   }
