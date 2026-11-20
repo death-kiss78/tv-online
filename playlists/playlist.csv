@@ -1,22 +1,3 @@
-Panonia Radio	http://kft.kesintisizyayin.com:8130/stream	0
-Life Radio Austrian Rock Bank 12 Stacja 51	http://live.antenne.at/arr	0
-Antenna 2 Italy	http://wma03.fluidstream.net:9070/listen.pls	0
-Rai Radio 3	http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast	0
-Radio Musicmania	https://s3.slotex.pl/shoutcast/7774/stream	0
-Rire & Chansons Blagues	http://cdn.nrjaudio.fm/adwz1/fr/30411/mp3_128.mp3	0
-Radio Plus	https://waw.ic.smcdn.pl/4270-1.mp3	0
-Romantic Blue	http://andrewstudios.go.ro:8000/RomanticBlue	0
-Nostalgie	http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios	0
-181.FM True Blues	http://listen.livestreamingservice.com/181-blues_128k.mp3	0
-Soul Cafe Radio	http://192.99.35.215:5354/stream	0
-LolliRadio	http://Italy,https://stream.lolliradio.net/lolli_italia.mp3?FLID=3&aw_0_req.gdpr=true&type=.mp3	0
-ESKARock-TerazPolskiRock Bank 12 Stacja 5	https://waw.ic.smcdn.pl/6090-1.mp3	0
-Sunbeatsradio	https://stream.laut.fm/sunbeatsradio	0
-Soma Boot Liquor	http://ice2.somafm.com/bootliquor-320-mp3	0
-Pro FM	https://edge126.rcs-rds.ro/profm/profm.mp3	0
-RFM Cinema	http://ais-live.cloud-services.paris:8000/rfm-wr15.mp3	0
-Radio Karolinka	http://91.232.4.33:8358/stream	0
-113.fm - Star USA	https://113fm-edge2.cdnstream.com/1727_128	0
 deltaradio_indie	http://stream.pcradio.biz:8000/deltaradio_indie-low	-20
 ibiz chillout	http://media-ice.musicradio.com/ChillMP3	0
 Radio Rockserwis.fm	http://radio.rockserwis.fm/live	0
@@ -1625,3 +1606,4 @@ Lush	http://ice4.somafm.com/lush-128-aac	0
 Radio Polski.FM Chicago	http://198.27.127.246:5663	0
 Radio Paradise	http://stream-dc1.radioparadise.com:80/aac-320	0
 Soma Underground 80s	http://ice6.somafm.com/u80s-256-mp3	0
+ProFM	https://edge126.rcs-rds.ro/profm/profm.mp3	0
