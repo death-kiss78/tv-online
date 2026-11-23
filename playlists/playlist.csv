@@ -1,9 +1,5 @@
-deltaradio_indie	http://stream.pcradio.biz:8000/deltaradio_indie-low	-20
-ibiz chillout	http://media-ice.musicradio.com/ChillMP3	0
-Radio Rockserwis.fm	http://radio.rockserwis.fm/live	0
-Radio Przeboje PRL	http://mp3.polskieradio.pl:8466	0
-Smooth Jazz Hot 100	http://server.webnetradio.net:5254/;	0
-Rockt Schleswig-Holstein Bank 12 Stacja 50	http://streams.radiobob.de/bob-shlive/mp3-192/streams.radiobob.de/	0
+ProFM	https://edge126.rcs-rds.ro/profm/profm.mp3	0
+
 BBC 4 Uk	http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p	0
 Radio Ostrock	http://secondradio.de:7070/ostrock	0
 Zona	http://Rumbera,https://stream20.usastreams.com/8198/stream	0
@@ -1606,4 +1602,3 @@ Lush	http://ice4.somafm.com/lush-128-aac	0
 Radio Polski.FM Chicago	http://198.27.127.246:5663	0
 Radio Paradise	http://stream-dc1.radioparadise.com:80/aac-320	0
 Soma Underground 80s	http://ice6.somafm.com/u80s-256-mp3	0
-ProFM	https://edge126.rcs-rds.ro/profm/profm.mp3	0
