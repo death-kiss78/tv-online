@@ -1,4 +1,7 @@
 ProFM	https://edge126.rcs-rds.ro/profm/profm.mp3	0
+RDS 100% Grandi Successi	https://icstream.rds.radio/rds	0
+Kiss FM	https://live.kissfm.ro:8443/kissfm.aacp	0
+Gherla FM	http://89.39.189.52:8000/stream;	0
 LolliRadio Italy	https://stream.lolliradio.net/lolli_italia.mp3?FLID=3&aw_0_req.gdpr=true&type=.mp3	0
 Antyradio Greatest	https://an.cdn.eurozet.pl/ANTGRE.mp3	0
 181.FM BeBop Jazz	http://listen.livestreamingservice.com/181-bebop_128k.mp3	0
@@ -11,7 +14,6 @@ Lounge	http://FM,https://vm.motionfm.com/motionthree_aacp	0
 TEKnival Radio	https://listen.teknivalradio.com/listen/teknivalradio/radio.flac	0
 Radio	http://NL,https://stream.radionl.fm/rnlgroningen	0
 Polskie Radio Jedynka	http://stream3.polskieradio.pl:8950	0
-Kiss FM Romania	https://live.kissfm.ro:8443/kissfm.aacp	0
 The Mix Radio 80s	http://51.255.127.128:8016/stream	0
 Radio Mega-HiT Romania	http://radiomegahit.zapto.org:8080/stream/1/	0
 RADIO NOSTALGIE	http://master.net-radio.fr:80/nostalgie-tuner37.mp3	0
@@ -28,7 +30,6 @@ The Beach Boys	http://stream.pcradio.biz:8000/The_Beach_Boys-hi	-20
 Soundtracks Radio	http://uk5.internet-radio.com:8256/	0
 Rockserwis.fm	http://stream9.nadaje.com:8002/live	0
 Phever Media Live	http://uk1.internet-radio.com:8200/live	0
-Kiss FM	https://live.kissfm.ro/kissfm.aacp	0
 Radio Coteaux	https://essentielradioing.streamakaci.com/radiocoteaux.mp3	0
 InPulz Dein Stadtradio	http://88.198.175.30:5550/stream/1/	0
 Antyradio	https://an01.cdn.eurozet.pl/ant-kat.mp3	0
@@ -72,7 +73,6 @@ Bachata	https://radiobachatanet.radioca.st:443/index.htmlCHUMILLASsid=1	0
 Polskie Radio 24	http://stream3.polskieradio.pl:8480	0
 Antyradio Classic Rock	https://an.cdn.eurozet.pl/ANTCLA.mp3	0
 Twoje Radio	http://65.ip-51-77-59.eu:8100/stream.mp3	0
-RDS 100% Grandi Successi	https://icstream.rds.radio/rds	0
 Zeppelin	https://radiostreaming.ert.gr/ert-zeppelin	0
 Pro Rock	http://91.232.4.33:9073/stream	0
 Nirvana	http://stream.pcradio.biz:8000/Nirvana-hi	-30
@@ -1385,7 +1385,6 @@ VOXINOX la webradio des Jeunes Seniors	http://94.23.41.123:8010/	0
 KLARA	http://Classical,https://icecast.err.ee/klaraklassika.mp3	0
 Radio Paradise1	http://stream.radioparadise.com/aac-128	0
 Nestolatki	http://s1.slotex.pl:7306	0
-Gherla FM	http://89.39.189.52:8000/stream;	0
 Classixx	http://www.clubfmserver.be:8000/classixxdab.mp3	0
 PR-4 Polskiego Radia	http://stream3.polskieradio.pl:8906	0
 Radio	http://Italy,https://sphera.fluidstream.eu/rpd_hita.mp3	0
